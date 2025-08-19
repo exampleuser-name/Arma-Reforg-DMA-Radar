@@ -1,3 +1,27 @@
+# How use?
+- Run all files second PC.
+- Move folder "ArmRF" in C:\
+
+Functions
+- ⬆️: - Enlarge an object
+- ⬇️: - reduce the object
+- Show name
+- Swap maps
+- Where is the player looking at
+- Yellow-local player(you)
+- Follow camera
+- Black dot-the player is eliminated
+
+
+The functionality for drawing maps and all objects is written in python. A memory reader is written in C++. 
+- First, run the C++ code, then run the python code.
+
+
+
+https://github.com/user-attachments/assets/58a33354-1cfb-44af-a6d5-92fa78197a85
+
+
+
 # DMALibrary
 Simple but extensive library for DMA users
 
