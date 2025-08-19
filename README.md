@@ -11,6 +11,7 @@ Functions
 - Yellow-local player(you)
 - Follow camera
 - Black dot-the player is eliminated
+- The modification was created via Player_Manager, which is why the entity rendering limit works depending on the server's settings +-2000
 
 
 The functionality for drawing maps and all objects is written in python. A memory reader is written in C++. 
